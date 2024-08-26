@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">Music App</string>
+    <string name="image1">Image showing a description of sdgthe content1</string>
+    <string name="image2">Image showing a description of thtrhe content2</string>
+    <string name="image3">Image showing a description srdgof the content3</string>
+    <string name="image4">Image showing a description of the consdfhtent4</string>
+
+    <string name="image5">Image showing a description of the contentsdfhg</string>
+    <string name="image6">Image showing a description of the contentsdhf</string>
+    <string name="image7">Image showing a description of the congfhtent4</string>
+    <string name="image8">Image showing a description of the contdfdsent4</string>
+
+    <string-array name="spinner_items">
+        <item> </item>
+        <item>Alternative Rock</item>
+        <item>Pop</item>
+    </string-array>
+
+    <style name="CustomSpinnerText">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:backgroundTint">@android:color/black</item>
+        <item name="android:popupBackground">@android:color/black</item>
+    </style>
+
+
+</resources>
